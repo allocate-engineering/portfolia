@@ -2,6 +2,8 @@
 
 Welcome to Portfolia! In this interview, you will create a portfolio tracker that allows users to view, add, and manage their stock buys. This project is designed to evaluate your skills in state management, component design, and data handling.
 
+<img src="dashboard.png?raw=true" width="600" />
+
 ## Project Overview
 
 You will build a single-page application using either Vue, React, or Angular. We've provided starter projects for each framework in the respective folders (`vue`, `react`, `angular`). Your task is to hydrate the application with data from a hosted JSON file, allow users to add new stock buys, and provide a detailed view for each stock buy.
